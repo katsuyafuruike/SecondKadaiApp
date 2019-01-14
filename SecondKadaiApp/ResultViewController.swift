@@ -9,8 +9,8 @@ class ResultViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let result = x
-        label2.text = "こんにちは、\(result)さん"
+        let result:String = x!
+        label2.text! = "こんにちは、\((result)) さん"
     }
 
 }
