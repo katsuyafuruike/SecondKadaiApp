@@ -45,7 +45,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="namae" destination="VWb-gI-fLg" id="Rlj-oJ-lvE"/>
+                        <outlet property="label1" destination="VWb-gI-fLg" id="1S6-h3-0nj"/>
                         <outlet property="textfield" destination="fNY-Gc-pTM" id="ZFS-FL-CMi"/>
                     </connections>
                 </viewController>
@@ -81,7 +81,7 @@
                         <viewLayoutGuide key="safeArea" id="29m-Yw-2Ex"/>
                     </view>
                     <connections>
-                        <outlet property="label" destination="LYh-8u-DrS" id="RpP-b1-6HS"/>
+                        <outlet property="label2" destination="LYh-8u-DrS" id="Twz-8l-Sto"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Jp8-0f-4cs" userLabel="First Responder" sceneMemberID="firstResponder"/>
