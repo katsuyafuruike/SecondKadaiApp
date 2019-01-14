@@ -11,10 +11,14 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var namae: UILabel!
+    @IBOutlet weak var textfield: UITextField!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+
     @IBAction func unwind(_ segue: UIStoryboardSegue){
     }
 
